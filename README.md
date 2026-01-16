@@ -139,10 +139,3 @@ Yes, improvements are possible. No, they won’t happen automatically.
 This project is for **educational and experimental purposes**.
 Use it responsibly — especially if humans are involved.
 
----
-
-## 👤 Author
-
-**Nikhil**
-
-If you’re going to fork this, at least improve something. Don’t just change the README title and call it innovation.
